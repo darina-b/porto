@@ -1,2 +1,3 @@
 # porto
-This is a repo for my portfolio projects
+Portfolio projects
+Hi, I'm Darina, a fresh Data Engineer. Here are a few projects to illustrate some of my skills.
